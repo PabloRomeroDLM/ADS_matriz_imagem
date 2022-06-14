@@ -17,4 +17,4 @@ Exercício de matrizes - Imagem
         - Fim Enquanto
        - Fim Enquanto
      - Fim
-![isso é uma imagem](
+![isso é uma imagem](https://github.com/PabloRomeroDLM/ADS_matriz_imagem/blob/main/vetimagem.png)
